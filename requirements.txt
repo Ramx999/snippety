@@ -1,2 +1,3 @@
-pytelegrambotapi
-pygments
+python-telegram-bot==13.11
+pygments==2.15.1
+python-dotenv==1.0.0
